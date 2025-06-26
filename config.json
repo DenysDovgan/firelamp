@@ -1,0 +1,8 @@
+{
+  "wifi_ssid": "PLAY internet 2.4GHz_95E4",
+  "wifi_password": "4du1mrcngv6t",
+  "mqtt_host": "broker.hivemq.com",
+  "mqtt_topic": "esp32/lamp",
+  "effect": "fire_2021",
+  "brightness": 128
+}
